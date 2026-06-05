@@ -25,3 +25,9 @@ This project is part of the Codveda Advanced Level tasks. It demonstrates the ap
 5. Model Training
 6. Model Evaluation
 7. Visualization
+
+##  Results
+The project successfully builds and evaluates machine learning models, providing insights into data patterns and prediction performance.
+
+##  Author
+David Jeremy Odhiambo
